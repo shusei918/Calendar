@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "26932198456",
+    "firebase_url": "https://augmentedcalendar-6b2bd.firebaseio.com",
+    "project_id": "augmentedcalendar-6b2bd",
+    "storage_bucket": "augmentedcalendar-6b2bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26932198456:android:90244a6c50b346e9",
+        "android_client_info": {
+          "package_name": "com.slack.room127.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26932198456-g2aubk3q8ht69gjhdjcmnktlscnoegs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBW5qy018bBhGIVAUDNzQUi4UrHe-GgGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
